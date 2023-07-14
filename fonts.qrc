@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>OliveVillage-Regular.otf</file>
+    </qresource>
+</RCC>
