@@ -1,5 +1,5 @@
 # rende-burritobowl-emissions
-Program that shows you the greenhouse gas emissions of your Burrito Bowl order at Rendezvous restaurant at UCLA  
+Program that shows you the greenhouse gas emissions of your Burrito Bowl order at Rendezvous restaurant at UCLA. Created using Qt Creator in C++.  
 
 **Motivation**  
 
