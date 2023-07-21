@@ -10,3 +10,6 @@ Program that shows you the greenhouse gas emissions of your Burrito Bowl order a
 
 Two demo videos are included- DEMO1 and DEMO2, showing two different bowl orders and what is displayed for each.  
 
+https://github.com/harperdunn/rende-burritobowl-emissions/assets/117541035/b746c775-dbfd-4ac0-8609-315eafd1b434
+
+
